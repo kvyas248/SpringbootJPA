@@ -1,4 +1,4 @@
-package com.dell.testapp.config;
+package com.kruti.testapp.config;
 
 
 import javax.sql.DataSource;

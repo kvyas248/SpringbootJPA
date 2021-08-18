@@ -1,4 +1,4 @@
-package com.dell.testapp.entities;
+package com.kruti.testapp.entities;
 
 
 import lombok.*;

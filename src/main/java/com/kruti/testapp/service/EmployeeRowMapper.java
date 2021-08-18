@@ -1,6 +1,6 @@
-package com.dell.testapp.service;
+package com.kruti.testapp.service;
 
-import com.dell.testapp.entities.Employee;
+import com.kruti.testapp.entities.Employee;
 import org.springframework.jdbc.core.RowMapper;
 
 import java.sql.ResultSet;

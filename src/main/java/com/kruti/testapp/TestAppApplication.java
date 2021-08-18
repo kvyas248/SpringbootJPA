@@ -1,4 +1,4 @@
-package com.dell.testapp;
+package com.kruti.testapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,7 +1,7 @@
-package com.dell.testapp.controller;
+package com.kruti.testapp.controller;
 
-import com.dell.testapp.entities.Employee;
-import com.dell.testapp.service.EmployeeService;
+import com.kruti.testapp.entities.Employee;
+import com.kruti.testapp.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
