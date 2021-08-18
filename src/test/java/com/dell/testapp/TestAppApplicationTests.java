@@ -1,4 +1,4 @@
-package com.dell.TestApp;
+package com.dell.testapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

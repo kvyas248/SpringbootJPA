@@ -1,7 +1,7 @@
-package com.dell.TestApp.controller;
+package com.dell.testapp.controller;
 
-import com.dell.TestApp.entities.Employee;
-import com.dell.TestApp.service.EmployeeService;
+import com.dell.testapp.entities.Employee;
+import com.dell.testapp.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
@@ -20,7 +20,7 @@ public class EmployeeController {
         return "Error!!";
     }
 
-    @GetMapping("/Employees")
+    @GetMapping("/employees")
     public String GetEmployees()
     {
         return employeeService.getAll();
